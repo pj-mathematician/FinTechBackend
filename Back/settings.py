@@ -11,6 +11,7 @@ https://docs.djangoproject.com/en/4.0/ref/settings/
 """
 
 from pathlib import Path
+import os
 # from decouple import config
 
 # SECRET_KEY = config("SECRET_KEY")
